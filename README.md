@@ -1,2 +1,2 @@
 # DrumKit-JS
-DrumKit Project using JavaScript
+DrumKit Project using JavaScript 🥁
